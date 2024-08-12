@@ -12,7 +12,7 @@ const header = (props) => {
 }
 
 header.defaultProps = {
-    title: 'Shopping List'
+    title: 'Shopping List Items'
 }
 
 export default header
